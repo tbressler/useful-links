@@ -16,6 +16,10 @@ Stylesheets:
 - http://www.guigarage.com/2015/11/styling-a-javafx-scrollbar/
 - https://stackoverflow.com/questions/32160980/javafx-how-to-get-the-corresponding-stylesheet-for-a-given-style-class-of-a-nod
 
+Animation:
+
+- https://www.billmann.de/2012/07/16/javafx-glowing-icon-button-as-an-eye-catcher/
+
 ## Testing
 
 - Mutationstests mit PIT in Java: https://m.heise.de/developer/artikel/Mutationstests-mit-PIT-in-Java-3888683.html
