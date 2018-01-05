@@ -23,6 +23,7 @@ Animation:
 ## Testing
 
 - Mutationstests mit PIT in Java: https://m.heise.de/developer/artikel/Mutationstests-mit-PIT-in-Java-3888683.html
+- Assertions for tests (Google Truth): http://google.github.io/truth
 
 ## Travis CI
 
